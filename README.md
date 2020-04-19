@@ -13,5 +13,5 @@
  
 # 结论
 
-Iterator it = myMap.entrySet().iterator(); 这种方式在 稍占优势
+keySet少用，其他随缘
  
