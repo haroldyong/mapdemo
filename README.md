@@ -13,5 +13,5 @@
  
 # 结论
 
-其实都差不多
+Iterator it = myMap.entrySet().iterator(); 这种方式在 稍占优势
  
